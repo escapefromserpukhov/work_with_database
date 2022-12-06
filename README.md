@@ -23,7 +23,7 @@
 
 ## Ожидаемый результат
 
-![Каталог с телефонами](res/catalog.png)
+![Каталог с телефонами](https://raw.githubusercontent.com/netology-code/dj-homeworks/video/2.1-databases/work_with_database/res/catalog.png)
 
 ## Подсказка
 
